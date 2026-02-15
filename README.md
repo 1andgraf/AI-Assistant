@@ -1,6 +1,6 @@
 # AI Assistant Telegram Bot
 
-My version of OpenClawd-like personal assistant bot built with Python and using gpt4f library. You can chat with it in Telegram.
+My version of OpenClawd-like personal assistant bot built with Python and using gpt4f library. You can chat with it in Telegram, it can edit your Google Sheets for you and log anything you ask.
 
 ---
 
