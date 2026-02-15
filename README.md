@@ -2,6 +2,8 @@
 
 My version of OpenClawd-like personal assistant bot built with Python and using gpt4f library. You can chat with it in Telegram.
 
+---
+
 <img width="536" height="402" alt="Screenshot 2026-02-15 at 16 11 16" src="https://github.com/user-attachments/assets/b41d14e6-203c-427d-987b-eb4b86d10fec" />  
 <img width="883" height="306" alt="Screenshot 2026-02-15 at 16 07 47" src="https://github.com/user-attachments/assets/e7abb999-600b-42f5-aa18-472150f21b03" />
 
