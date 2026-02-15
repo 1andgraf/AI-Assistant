@@ -19,7 +19,6 @@ My version of OpenClawd-like personal assistant bot built with Python and using 
 
    ```bash
    git clone https://github.com/1andgraf/AI-Assistant.git
-   cd ai-concierge
    ```
 
 2. Install dependencies:
