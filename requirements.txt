@@ -1,0 +1,10 @@
+aiogram==3.17.0
+sqlalchemy==2.0.25
+pydantic==2.5.3
+python-dotenv==1.0.1
+g4f==0.4.5.3
+curl_cffi==0.7.4
+pytest==8.0.0
+pytest-asyncio==0.23.5
+gspread==6.0.0
+oauth2client==4.1.3
